@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone [https://github.com/SSUHOY/speedtest-cli.git](https://github.com/SSUHOY/speedtest-cli.git)
+   git clone [https://github.com/SSUHOY/speedtest.git](https://github.com/SSUHOY/speedtest.git)
    cd speedtest-cli
    ```
 2. Установите зависимости
@@ -20,11 +20,11 @@
    ```
 ## Использование 
    ```bash
-  python speedtest.py [URL]
+  python speedtest.py
    ```
 ## Пример 
   ```bash
-   python speedtest.py [https://picsum.photos/seed/picsum/2000/2000](https://picsum.photos/seed/picsum/2000/2000)
+   python speedtest.py https://aurora-labeling.ru/product/testovaya-liniya-etiketirovki/
   ```
 
 ## Выбранные единицы измерения:
